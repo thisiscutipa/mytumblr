@@ -1341,7 +1341,7 @@ figure>.soundcloud_audio_player,figure>.spotify_audio_player{
 .album-img img{
     margin:0 auto 15px;
     vertical-align:middle;
-    width:80px;
+    width:100%;
     height:auto;
     border-radius:10px
 }
