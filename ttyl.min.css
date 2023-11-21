@@ -861,7 +861,7 @@ body.right-side .wrapper{
     display:block
 }
 .entry{
-    margin:0 auto 7rem;
+    margin:0 auto 2rem;
     width:100%
 }
 .entry:last-of-type{
